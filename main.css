@@ -1,0 +1,48 @@
+/*****************Mutual Classes*********************/
+:root {
+  --bgcolor: rgb(236, 234, 234);
+  --frcolor: rgb(37, 34, 34);
+  --font: rgb(49, 15, 88);
+  --ffamily: "JetBrains Mono", monospace;
+  --ffamily2: "Carter One", cursive;
+
+  --ffamily3: "Londrina Shadow", cursive;
+  --ffamily4: "Londrina Solid", cursive;
+  --ffamily5: "Potta One", cursive;
+  --text-shadow-l-4: -1px 1px 0px rgb(187, 175, 175),
+    -2px 2px 0px rgb(172, 155, 155), -3px 3px 0px rgb(129, 122, 122),
+    -4px 4px 0px rgb(201, 177, 177);
+  --text-shadow-l-3: -1px 1px 0px rgb(187, 175, 175),
+    -2px 2px 0px rgb(172, 155, 155), -3px 3px 0px rgb(129, 122, 122);
+  --text-shadow-l-2: -1px 1px 0px rgb(187, 175, 175),
+    -2px 2px 0px rgb(172, 155, 155);
+  --text-shadow-l-1: -1px 1px 0px rgb(187, 175, 175);
+  --text-shadow-d-4: -1px 1px 0px rgb(83, 78, 78), -2px 2px 0px rgb(70, 63, 63),
+    -3px 3px 0px rgb(65, 58, 58), -4px 4px 0px rgb(78, 71, 71);
+  --text-shadow-d-3: -1px 1px 0px rgb(83, 78, 78), -2px 2px 0px rgb(70, 63, 63),
+    -3px 3px 0px rgb(65, 58, 58);
+  --text-shadow-d-2: -1px 1px 0px rgb(83, 78, 78), -2px 2px 0px rgb(70, 63, 63);
+  --text-shadow-d-1: -1px 1px 0px rgb(83, 78, 78);
+}
+.container {
+  padding: 0;
+  margin: 0;
+}
+* {
+  font-size: 40px;
+}
+.p11 {
+  font-family: "Carter One", cursive;
+}
+.p12 {
+  font-family: "JetBrains Mono", monospace;
+}
+.p13 {
+  font-family: "Londrina Shadow", cursive;
+}
+.p14 {
+  font-family: "Londrina Solid", cursive;
+}
+.p15 {
+  font-family: "Potta One", cursive;
+}
